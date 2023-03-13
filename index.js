@@ -1,3 +1,6 @@
+import {ContaCorrente} from "./ContaCorrente.js"
+import {Cliente} from "./Cliente.js"
+
 
 const cliente1 = new Cliente();
 cliente1.nome = "Ricardo";
